@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3473B08390537D53AB90149E /* SliderIconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3473B0D20670A5111F02DFF9 /* SliderIconView.swift */; };
 		3473B5569D3B1474996523D7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3473B1B28B5857EBCFC28237 /* .gitignore */; };
+		3473B66AA3B33DFCA18A8F4C /* SwiftUISlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3473B1579770CF971C7E7E05 /* SwiftUISlider.swift */; };
 		3473B82D8A9DA9394B3379BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3473BC6B673613C92207FE28 /* ContentView.swift */; };
 		3473BCA9612FFF8874FC467C /* HeadlineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3473BF3631AD199560329D9F /* HeadlineView.swift */; };
 		7A1848662519312B00F46420 /* reputationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1848652519312B00F46420 /* reputationApp.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3473B0D20670A5111F02DFF9 /* SliderIconView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SliderIconView.swift; sourceTree = "<group>"; };
+		3473B1579770CF971C7E7E05 /* SwiftUISlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUISlider.swift; sourceTree = "<group>"; };
 		3473B1B28B5857EBCFC28237 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 		3473BC6B673613C92207FE28 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3473BF3631AD199560329D9F /* HeadlineView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeadlineView.swift; sourceTree = "<group>"; };
@@ -42,6 +46,8 @@
 			children = (
 				3473BC6B673613C92207FE28 /* ContentView.swift */,
 				3473BF3631AD199560329D9F /* HeadlineView.swift */,
+				3473B0D20670A5111F02DFF9 /* SliderIconView.swift */,
+				3473B1579770CF971C7E7E05 /* SwiftUISlider.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -156,6 +162,8 @@
 				7A1848662519312B00F46420 /* reputationApp.swift in Sources */,
 				3473B82D8A9DA9394B3379BE /* ContentView.swift in Sources */,
 				3473BCA9612FFF8874FC467C /* HeadlineView.swift in Sources */,
+				3473B08390537D53AB90149E /* SliderIconView.swift in Sources */,
+				3473B66AA3B33DFCA18A8F4C /* SwiftUISlider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
